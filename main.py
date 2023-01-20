@@ -1,1 +1,1 @@
-from Ejercicio_1_y_2 import stormtrooper
+from Ejercicio_1_y_2 import ej1
